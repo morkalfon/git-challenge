@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "Kukuriku!"
+echo "kukuriku"
